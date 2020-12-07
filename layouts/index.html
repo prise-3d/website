@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<h1>About</h1>
+
+<p>
+<strong>PrISE-3D</strong> for "Perception, Interactions et Simulation d’Eclairage 3D" is a French ANR project.
+</p>
+
+The production of photorealistic computer-generated images requires the use of lighting simulation methods, characterised by the presence of perceptible noise. 
+This noise gradually disappears according to the convergence of the methods used, but at the cost of very high calculation time. This is all the more penalizing for the production of sequences of 3D images, which require the calculation of several distinct images. 
+The main goal of the PrISE-3D project is a better understanding of the perceptual mechanisms underlying the perception of a quality image, when faced with various stereoscopic restitution devices. For this purpose, procedures for identifying the perceptual thresholds of visual convergence of lighting simulation algorithms will be studied in the case of images in relief. 
+These thresholds will then make it possible to determine criteria for automatically stopping the calculations, which can be used in the following cases the framework for high quality audiovisual productions, but also to guide the rendering of interactive algorithms, according to the actions carried out by a user in large immersive environments.
+
+<br/>
+
+<h1>Articles</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/articles" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+<h1>Ressources</h1>
+
+<!--
+<div class="image-grid">
+{{ with .Site.GetPage "/resources" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+-->
+
+{{ with .Site.GetPage "/resources" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <!--<div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>-->
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}
