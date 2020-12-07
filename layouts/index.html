@@ -46,6 +46,7 @@ These thresholds will then make it possible to determine criteria for automatica
 {{ end }}
 -->
 
+<div class="posts-list">
 {{ with .Site.GetPage "/resources" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">

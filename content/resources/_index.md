@@ -1,6 +1,6 @@
 +++
-title = "Photos"
-type = "gallery"
+title = "Resources"
+type = "posts"
 +++
 
 
