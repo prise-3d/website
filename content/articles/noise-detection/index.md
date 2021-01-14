@@ -1,6 +1,6 @@
 +++
 title = "Stopping criterion during rendering of Computer-Generated Images based on SVD-Entropy"
-date = "2020-12-08"
+date = "2021-01-06"
 summary="The estimation of  image quality and noise perception still remains an important issue in various image processing applications. It also became a hot topic  in the field of photo-realistic computer graphics where noise is inherent in the calculation process. Unlike natural-scene images however, a reference image is not available for computer-generated images. Thus, classical methods to assess noise quantity and stopping criterion during the rendering process are not usable."
 
 +++
@@ -12,9 +12,10 @@ This is particularly important in the case of global illumination methods based 
 
 # Method
 
-Article will be available soon...
+- **Article:** [PDF](https://www.mdpi.com/1099-4300/23/1/75/pdf)
+- **DOI:** [https://doi.org/10.3390/e23010075](https://doi.org/10.3390/e23010075) 
 
-# Results and training data
+# Dataset and results data
 
 **Dataset**:
 - Computer generated images dataset: [overview]({{< ref "/resources/sin3d" >}} "overview")
@@ -34,3 +35,17 @@ Article will be available soon...
 
 - SVD-Entropy RNN model: [download](/articles/noise-detection/models/paper_svd_entropy_blocks.h5)
 - 26 attributes RNN model: [download](/articles/noise-detection/models/paper_26_attributes.h5)
+
+# Citation
+```
+@article{buisine2021stopping,
+  title={Stopping Criterion during Rendering of Computer-Generated Images Based on SVD-Entropy},
+  author={Buisine, J{\'e}r{\^o}me and Bigand, Andr{\'e} and Synave, R{\'e}mi and Delepoulle, Samuel and Renaud, Christophe},
+  journal={Entropy},
+  volume={23},
+  number={1},
+  pages={75},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```

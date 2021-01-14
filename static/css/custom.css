@@ -1,0 +1,13 @@
+pre code {
+    overflow-x: unset !important;
+    font-size: 14px !important;
+}
+
+
+pre {
+    background-color: #cccccc;
+}
+
+code {
+    background-color: #cccccc;
+}
