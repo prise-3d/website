@@ -12,6 +12,7 @@ This is particularly important in the case of global illumination methods based 
 
 # Method
 
+- **Journal:** [_Entropy_](https://www.mdpi.com/journal/entropy) 2021, 23(1), 75;
 - **Article:** [PDF](https://www.mdpi.com/1099-4300/23/1/75/pdf)
 - **DOI:** [https://doi.org/10.3390/e23010075](https://doi.org/10.3390/e23010075) 
 
