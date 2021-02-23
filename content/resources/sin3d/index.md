@@ -20,4 +20,23 @@ Some views of the image _Living room 3_ produced during paths sampling according
 
 # Resources access
 
-Computer generated images dataset: [download](/datasets/SIN3D_dataset.tar)
+Computer generated images dataset: [https://zenodo.org/record/4531460](https://zenodo.org/record/4531460)
+
+# Citation
+
+```
+@dataset{jerome_buisine_2021_4531460,
+  author       = {Jérôme Buisine and
+                  Samuel Delepoulle and
+                  Rémi Synave and
+                  Christophe Renaud},
+  title        = {{Subjective human thresholds over computer 
+                   generated images}},
+  month        = feb,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.4531460},
+  url          = {https://doi.org/10.5281/zenodo.4531460}
+}
+```
