@@ -1,7 +1,7 @@
 +++
 title = "Measured and predicted visual fixations in a Monte Carlo rendering noise detection task"
 date = "2021-09-11"
-summary="todo"
+summary="This poster shows the comparison of fixations of an image that includes Monte Carlo noise. A comparison with noise saliency models is performed."
 
 +++
 
