@@ -1,2 +1,5 @@
+node_modules
 public
-resources/_gen
+resources
+.netlify
+.hugo_build.lock

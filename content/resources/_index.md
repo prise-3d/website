@@ -1,6 +1,0 @@
-+++
-title = "Resources"
-type = "posts"
-+++
-
-
