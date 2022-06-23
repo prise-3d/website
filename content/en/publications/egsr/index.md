@@ -2,7 +2,8 @@
 title: "Firefly removal in Monte Carlo rendering with adaptive Median of meaNs"
 date: "2021-06-29"
 description: "A method based on the gini coefficient to avoid fireflies on images computed with monte carlow method."
-icon: "📝"
+information: "Eurographics Symposium on Rendering (EGSR)"
+category: 2 # 1: article, 2: conference, 3: softwares, 4: others
 contributors: ["Jérôme Buisine et al."]
 ---
 

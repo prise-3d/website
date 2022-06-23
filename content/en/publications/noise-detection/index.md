@@ -1,8 +1,8 @@
 ---
 title: "Stopping criterion during rendering of Computer-Generated Images based on SVD-Entropy"
 date: "2021-01-06"
-description: "The estimation of  image quality and noise perception still remains an important issue in various image processing applications. It also became a hot topic  in the field of photo-realistic computer graphics where noise is inherent in the calculation process. Unlike natural-scene images however, a reference image is not available for computer-generated images. Thus, classical methods to assess noise quantity and stopping criterion during the rendering process are not usable."
-icon: "📖"
+information: "Journal Entropy"
+category: 1 # 1: article, 2: conference, 3: softwares, 4: others
 contributors: ["Jérôme Buisine et al."]
 ---
 
