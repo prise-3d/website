@@ -16,9 +16,12 @@ Nos contributions se focalisent sur ces artefacts, en utilisant des données ré
 # Citation
 
 ```
-@article{delepoulled,
-  title={d’Habilitationa Diriger les Recherches},
-  author={Delepoulle, Samuel}
+@PhdThesis{Delepoulle_hdr,
+  author = {Samuel Delepoulle},
+  school = {Université du Littoral Côte d’Opale},
+  title  = {Entre perception et images numériques : une perspective.},
+  year   = {2022},
+  type = {Habilitation à Diriger les Recherches},
+  note   = {Habilitation à diriger les recherches ULCO 2021},
 }
-
 ```

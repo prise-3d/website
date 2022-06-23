@@ -12,11 +12,11 @@ Les images photoréalistes générées par des algorithmes de rendu physique uti
 
 # Citation
 ```
-@inproceedings{buisine2021methodes,
-  title={M{\'e}thodes d’apprentissage automatique pour la prise en compte du bruit dans les images de synth{\`e}se},
-  author={Buisine, Jérôme},
-  year={2021},
-  organization={Universit{\'e} du Littoral C{\^o}te d'Opale}
+@PhdThesis{Myrodia2021a,
+  author = {Vasiliki Myrodia},
+  school = {Université de Lille},
+  title  = {Études psychophysiques sur la perception visuelle du bruit de rendu de Monte Carlo},
+  year   = {2021},
+  note   = {Thèse de doctorat dirigée par Madelain, Laurent, Psychologie 2021},
 }
-
 ```

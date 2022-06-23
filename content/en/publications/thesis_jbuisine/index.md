@@ -12,11 +12,11 @@ Lighting simulation methods, used in image synthesis, make it possible to obtain
 
 # Citation
 ```
-@inproceedings{buisine2021methodes,
-  title={M{\'e}thodes d’apprentissage automatique pour la prise en compte du bruit dans les images de synth{\`e}se},
-  author={Buisine, Jérôme},
-  year={2021},
-  organization={Universit{\'e} du Littoral C{\^o}te d'Opale}
+@PhdThesis{Buisine2021d,
+  author = {Jérôme Buisine},
+  school = {Université du Littoral Côte d’Opale},
+  title  = {Méthodes d’apprentissage automatique pour la prise encompte du bruit dans les images de synthèse},
+  year   = {2021},
+  note   = {Thèse de doctorat dirigée par Renaud, Christophe et Delepoulle, Samuel Informatique Littoral 2021},
 }
-
 ```
