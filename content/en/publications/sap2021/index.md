@@ -1,18 +1,8 @@
-<<<<<<< HEAD:content/en/publications/sap2021/index.md
 ---
 title: "Measured and predicted visual fixations in a Monte Carlo rendering noise detection task"
 date: "2021-09-11"
 icon: "🪧"
 contributors: ["Vasiliki Myrodia et al."]
-=======
-+++
-title = "Measured and predicted visual fixations in a Monte Carlo rendering noise detection task"
-date = "2021-09-11"
-summary="This poster shows the comparison of fixations of an image that includes Monte Carlo noise. A comparison with noise saliency models is performed."
-
-+++
-
->>>>>>> 0b01fd4dec38191c120a8239445cecc877e247fb:content/articles/sap2021/index.md
 ---
 
 # Abstract
