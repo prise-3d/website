@@ -1,7 +1,7 @@
 ---
 title : "ANR PrISE-3D Project"
-description: "<strong>PrISE-3D</strong> for: <i>Perception, Interactions et Simulation d’Eclairage 3D</i> is a French ANR project."
-lead: "<strong>PrISE-3D</strong> for: <i>Perception, Interactions et Simulation d’Eclairage 3D</i> is a French ANR project."
+description: "<strong><i>Perception, Interactions et Simulation d’Eclairage 3D</i></strong> (PrISE-3D) is a French ANR project."
+lead: "<strong><i>Perception, Interactions et Simulation d’Eclairage 3D</i></strong> (PrISE-3D) is a French ANR project."
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false

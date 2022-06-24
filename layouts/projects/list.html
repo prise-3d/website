@@ -10,7 +10,7 @@
 					<div class="card" style="margin-bottom: 5px;">
 						<div class="card-body">
 							<h2 class="h4"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
-							<p>{{ .Params.lead | safeHTML }}</p>
+							<p><i>{{ .Params.description | safeHTML }}</i></p>
 							{{ partial "main/project-meta.html" . -}}
 						</div>
 					</div>

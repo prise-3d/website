@@ -1,10 +1,7 @@
-+++
-title = "[P3D] pbrt-v4"
-date = "2021-01-06"
-summary="Custom version of the early release of pbrt-v4 for the PrISE-3D project, the rendering system fourth edition of Physically Based Rendering: From Theory to Implementation."
-
-+++
-
+---
+title: "[P3D] pbrt-v4"
+date: "2021-01-06"
+description: "Custom version of the early release of pbrt-v4 for the PrISE-3D project, the rendering system fourth edition of Physically Based Rendering: From Theory to Implementation."
 ---
 
 ## Description

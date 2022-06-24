@@ -1,5 +1,16 @@
 /** Custom styles */
-btn-copy:hover {
+.btn-copy {
     color: #007acc !important;
-    background-color: #007add !important;
+    border-color: #006bb3 !important;
+    background-color: #007acc !important;
+}
+
+.btn-copy:hover {
+    color: #007acc !important;
+    border-color: #0052cc !important;
+    background-color: #0066cc !important;
+}
+
+.header-bar {
+    border-image-source: linear-gradient(90deg, #6d2b0d, #f1bda6 50%, #ed5b1b)
 }
