@@ -11,5 +11,8 @@ For more information about the project, please contact:
 
 - {{< email user="samuel.delepoulle" domain="univ-littoral.fr" >}}
 
+- {{< email user="laurent.madelain" domain="univ-lille.fr" >}}
+
 - {{< email user="jerome.buisine" domain="univ-littoral.fr" >}}
+
 
