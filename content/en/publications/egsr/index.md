@@ -4,7 +4,7 @@ date: "2021-06-29"
 description: "A method based on the gini coefficient to avoid fireflies on images computed with monte carlow method."
 information: "Eurographics Symposium on Rendering (EGSR)"
 category: 2 # 1: article, 2: conference, 3: softwares, 4: others
-contributors: ["Jérôme Buisine et al."]
+contributors: ["Jérôme Buisine", "Samuel Delepoulle", "Christophe Renaud"]
 ---
 
 # Abstract

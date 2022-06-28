@@ -3,7 +3,7 @@ title: "Minimalist And Customisable Optimisation Package"
 date: "2021-03-12"
 information: "Journal of Open Source Software"
 category: 3 # 1: article, 2: conference, 3: softwares, 4: others
-contributors: ["Jérôme Buisine et al."]
+contributors: ["Jérôme Buisine", "Samuel Delepoulle", "Christophe Renaud"]
 ---
 
 # Abstract

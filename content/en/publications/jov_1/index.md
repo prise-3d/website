@@ -3,7 +3,7 @@ title: "Foveal and peripheral vision for assessing the quality of computer-gener
 date: "2020-10-20"
 information: "Journal of Vision"
 category: 1 # 1: article, 2: conference, 3: softwares, 4: others
-contributors: ["Vasiliki Myrodia et al."]
+contributors: ["Vasiliki Myrodia", "Samuel Delepoulle", "Laurent Madelain"]
 ---
 
 # Abstract

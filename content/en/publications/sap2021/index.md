@@ -4,7 +4,7 @@ date: "2021-09-11"
 icon: "🪧"
 information: "ACM Symposium on Applied Perception (Poster session)"
 category: 2 # 1: article, 2: conference, 3: softwares, 4: others
-contributors: ["Vasiliki Myrodia et al."]
+contributors: ["Vasiliki Myrodia", "Jérôme Buisine", "Samuel Delepoulle", "Christophe Renaud", "Laurent Madelain"]
 ---
 
 # Abstract

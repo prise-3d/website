@@ -3,7 +3,7 @@ title: "Stopping criterion during rendering of Computer-Generated Images based o
 date: "2021-01-06"
 information: "Journal Entropy"
 category: 1 # 1: article, 2: conference, 3: softwares, 4: others
-contributors: ["Jérôme Buisine et al."]
+contributors: ["Jérôme Buisine", "André Bigand", "Rémi Synave",  "Samuel Delepoulle", "Christophe Renaud"]
 ---
 
 # Abstract

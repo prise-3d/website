@@ -3,7 +3,7 @@ title: "Comparison of threshold measurements in laboratory and online studies us
 date: "2021-09-27"
 information: "Journal of Vision"
 category: 1 # 1: article, 2: conference, 3: softwares, 4: others
-contributors: ["Vasiliki Myrodia et al."]
+contributors: ["Vasiliki Myrodia", "Jérôme Buisine", "Laurent Madelain"]
 ---
 
 # Abstract
