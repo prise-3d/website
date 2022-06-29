@@ -14,3 +14,19 @@
 .header-bar {
     border-image-source: linear-gradient(90deg, #6d2b0d, #f1bda6 50%, #ed5b1b)
 }
+
+/** other data */
+html, body {
+    height: 100%;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .wrap {
+    flex: 1 0 auto;
+  }
+  .footer {
+    margin-top: 10px;
+    flex-shrink: 0;
+  }
