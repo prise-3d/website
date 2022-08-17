@@ -13,4 +13,13 @@ The production of photorealistic computer-generated images requires the use of l
 This noise gradually disappears according to the convergence of the methods used, but at the cost of very high calculation time. This is all the more penalizing for the production of sequences of 3D images, which require the calculation of several distinct images. 
 The main goal of the PrISE-3D project is a better understanding of the perceptual mechanisms underlying the perception of a quality image, when faced with various stereoscopic restitution devices. For this purpose, procedures for identifying the perceptual thresholds of visual convergence of lighting simulation algorithms will be studied in the case of images in relief. 
 These thresholds will then make it possible to determine criteria for automatically stopping the calculations, which can be used in the following cases the framework for high quality audiovisual productions, but also to guide the rendering of interactive algorithms, according to the actions carried out by a user in large immersive environments.
+
+### Resources:
+
+Final report of the ANR project (FR) : 
+[download](others/ANR_PrISE3D_Compte-rendu_final.pdf).
 </div>
+
+<br />
+
+
