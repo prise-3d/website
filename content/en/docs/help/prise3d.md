@@ -36,7 +36,7 @@ Le serveur `prise3d` est un serveur de stockage et de calcul. Il est composé de
 
 ## Accéder au serveur
 
-Le serveur `prise3d` est accessible depuis le serveur `diran` qui sert de proxy. Il faudra donc pour un accèder à ce serveur posséder un compte à la fois sur `diran` et sur `prise3d`.
+Le serveur `prise3d` est accessible depuis le serveur `diran` qui sert de passerelle. Il faudra donc pour un accès à ce serveur, posséder un compte à la fois sur `diran` et sur `prise3d`.
 
 ```
 ssh XXXXX@diran.univ-littoral.fr
@@ -60,7 +60,7 @@ passwd
 
 ### Configuration de clés ssh
 
-Pour un accès simplifié, il sera nécessaire de générer une clé ssh de `diran` vers `prise3d`. Pour cela, générez une clé sur le serveur `diran` :
+Pour un accès simplifié, il sera utile de générer une clé ssh sur `diran`. Pour cela, générez une clé sur le serveur `diran` :
 
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
