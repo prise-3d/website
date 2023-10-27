@@ -18,20 +18,21 @@ Le serveur `prise3d` est un serveur de stockage et de calcul. Il est composé de
 
 ```
 +-----------------------------------------------------------------------------+
-| NVIDIA-SMI 510.47.03    Driver Version: 510.47.03    CUDA Version: 11.6     |
+| NVIDIA-SMI 525.125.06   Driver Version: 525.125.06   CUDA Version: 12.0     |
 |-------------------------------+----------------------+----------------------+
 | GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
 | Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
 |                               |                      |               MIG M. |
 |===============================+======================+======================|
 |   0  NVIDIA GeForce ...  Off  | 00000000:23:00.0 Off |                  N/A |
-| 23%   39C    P8    25W / 250W |      0MiB / 11264MiB |      0%      Default |
+| 22%   37C    P8    21W / 250W |      0MiB / 11264MiB |      0%      Default |
 |                               |                      |                  N/A |
 +-------------------------------+----------------------+----------------------+
 |   1  NVIDIA RTX A6000    Off  | 00000000:2D:00.0 Off |                  Off |
-| 30%   39C    P8    16W / 300W |      0MiB / 49140MiB |      0%      Default |
+| 30%   46C    P8    26W / 300W |      0MiB / 49140MiB |      0%      Default |
 |                               |                      |                  N/A |
 +-------------------------------+----------------------+----------------------+
+                                                                               
 ```
 
 ## Accéder au serveur
